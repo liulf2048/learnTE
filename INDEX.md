@@ -6,6 +6,7 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 
 | Issue date | PDF | EPUB | Release |
 | --- | --- | --- | --- |
+| 2026-08-22 | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260822/20260822-The-Economist.pdf) | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260822/20260822-The-Economist.epub) | [View](https://github.com/liulf2048/learnTE/releases/tag/te-20260822) |
 | 2026-08-15 | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260815/20260815-The-Economist.pdf) | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260815/20260815-The-Economist.epub) | [View](https://github.com/liulf2048/learnTE/releases/tag/te-20260815) |
 | 2026-08-08 | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260808/20260808-The-Economist.pdf) | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260808/20260808-The-Economist.epub) | [View](https://github.com/liulf2048/learnTE/releases/tag/te-20260808) |
 | 2026-08-01 | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260801/20260801-The-Economist.pdf) | [Download](https://github.com/liulf2048/learnTE/releases/download/te-20260801/20260801-The-Economist.epub) | [View](https://github.com/liulf2048/learnTE/releases/tag/te-20260801) |
@@ -22,4 +23,4 @@ This file is generated automatically from GitHub Releases. Issues are sorted by 
 | --- | --- | --- | --- |
 | — | — | — | — |
 
-_Total issues: 3._
+_Total issues: 4._
